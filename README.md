@@ -32,7 +32,7 @@ I've been learning to code for almost 2,5 years now. At first, it was a hobby bu
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/dito.rattlehead" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dito-kapanadze-673699212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/dito.rattlehead" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dito-kapanadze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <img  align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=ditokapanadze&show_icons=true&theme=radical" />
 <img   align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditokapanadze&layout=compact" />
 
