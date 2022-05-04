@@ -7,6 +7,8 @@ Web developer
 * 🌍  I'm based in Georgia, Tbilisi
 * ✉️  You can contact me at [ditokapanadze0@gmail.com](mailto:ditokapanadze0@gmail.com)
 
+I've been learning to code for almost 2,5 years now. At first, it was a hobby but soon it became my passion. Have gained solid knowledge and experience in front-end web development (reactJS) now I'm working to also become a backend ninja.
+
 ### Skills
 
 <p align="left">
