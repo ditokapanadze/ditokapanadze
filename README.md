@@ -8,7 +8,7 @@ Web developer
 * ✉️  You can contact me at [dimkapanadze@gmail.com](mailto:dimkapanadze@gmail.com)
 
 
-I've been learning to code for almost 3,5 years now. At first, it was a hobby but soon it became my passion. Have gained solid knowledge and experience in front-end web development (reactJS) now I'm working to also become a backend ninja.
+
 
 ### Skills
 
