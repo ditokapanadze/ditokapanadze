@@ -4,7 +4,7 @@ Hi 👋 My name is dito kapanadze
 Web developer
 -------------
 
-* 🌍  I'm based in Alicante, Spain
+
 * ✉️  You can contact me at [dimkapanadze@gmail.com](mailto:dimkapanadze@gmail.com)
 
 
